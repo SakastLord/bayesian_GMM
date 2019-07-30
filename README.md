@@ -2,7 +2,7 @@
 
 ### Bayesian inference of Gaussian mixture models
 
-This project provides R and MATLAB functions for performing Gaussian mixture model fitting using a Bayesian approach, using a novel, convenient modification of the standard Gaussian mixture model which allows us to avoid specifying prior parameters. This model is described in detail in this [paper](https://arxiv.org/abs/1405.4895).
+This project provides R and MATLAB functions for performing Gaussian mixture model fitting using a Bayesian approach, using a novel, convenient modification of the standard Gaussian mixture model which allows us to avoid specifying prior parameters. The model is described in detail in this [paper](https://arxiv.org/abs/1405.4895).
 
 ### Background
 
